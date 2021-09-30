@@ -10,3 +10,9 @@ As stated above, this repo includes my own solutions. Please do not use them to 
 * Codewarriors should not submit my solutions as their own.
 * I will not be accepting contributions of any form to this repo.
 * Creating a repository like this is discouraged by Codewars.
+
+
+Thank you!
+
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/KiikiTinna/badges/large)
