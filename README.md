@@ -16,3 +16,4 @@ Thank you!
 
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/KiikiTinna/badges/large)
+![My profile is:](https://www.codewars.com/users/KiikiTinna)
